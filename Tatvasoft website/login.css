@@ -1,0 +1,157 @@
+::-webkit-input-placeholder {
+    font-style: italic;
+}
+
+.nav-bar {
+    margin-top: 14px;
+}
+
+.nav-bar ul {
+    display: flex;
+}
+
+.nav-bar li {
+    list-style: none;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: #333;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+#sitelogo {
+    padding-left: 12%;
+}
+
+#sitelogo img {
+    height: 44.2px;
+    width: 180px;
+}
+
+#cart-logo {
+    width: 28px;
+    height: 28px;
+}
+
+.navbar-right li {
+    padding-top: 14px;
+    padding-left: 25%;
+}
+
+.navbar-right {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    margin-left: 50%;
+}
+
+.search-bar {
+    height: 80px;
+    background-color: antiquewhite
+}
+
+.search-bar input {
+    width: 422px;
+    margin-top: 20px;
+    height: 40px;
+    color: rgb(33, 33, 33);
+}
+
+.search-bar button {
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.search-bar form {
+    justify-content: center;
+}
+
+.status {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.status li {
+    margin-left: 1px;
+    list-style: none;
+}
+
+.status a {
+    text-decoration: none;
+    color: rgb(19, 20, 20);
+}
+
+.status-tital {
+    font-size: 36px;
+    font-family: Roboto;
+    color: #414141;
+    font-weight: 600 !important;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 125px;
+    margin-top: 50px;
+}
+
+.grid span {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #838383;
+    margin-bottom: 20px;
+}
+
+.grid p {
+    font-size: 20px;
+    font-family: Roboto-Light;
+    color: #414141;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.new_customer li {
+    line-height: 15px;
+    margin-bottom: 15px;
+    font-family: Roboto;
+    color: #212121;
+}
+
+.new_customer button {
+    margin-top: 145px;
+}
+
+.registered_customer div {
+    margin-bottom: 40px !important;
+}
+
+.registered_customer button {
+    margin-top: 17px;
+}
+
+#exampleInputEmail1 {
+    width: 45%;
+}
+
+#exampleInputPassword1 {
+    width: 45%;
+}
+
+footer {
+    margin-top: 80px;
+    color: #414141;
+    align-items: center;
+    text-align: center;
+}
+
+footer img {
+    height: 44.2px;
+    width: 180px;
+    margin-bottom: 10px;
+}
