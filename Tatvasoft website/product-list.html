@@ -39,7 +39,14 @@
     </nav>
     <div class="search-bar">
         <form class="d-flex">
-            <input type="search" class="form-control" placeholder="What are you looking for...">
+            <input type="text" list="list" class="form-control" placeholder="What are you looking for...">
+            <datalist id="list">
+                <option value="hello">hello</option>
+                <option value="jeel">jeel</option>
+                <option value="smart">smart</option>
+                <option value="jolly">jolly</option>
+                <option value="brave">brave</option>
+            </datalist>
             <button class="btn btn-outline-success" type="submit">Search</button>
             <button class="btn btn-outline-danger" type="submit">Cancel</button>
         </form>

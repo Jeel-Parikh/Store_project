@@ -77,37 +77,44 @@
     margin-top: 50px;
     margin-bottom: 25px;
 }
-.s_bar{
+
+.s_bar {
     margin-top: 45px;
     margin-bottom: 32px;
 }
-.s_bar input{
-    width:300px;
-    height:40px;
+
+.s_bar input {
+    width: 300px;
+    height: 40px;
     margin-right: 10px;
     margin-left: 62%;
 }
-.table{
+
+.table {
     width: 80%;
     /* margin-left: 16%; */
     margin: auto auto auto 14%;
 }
-.row_info{
+
+.row_info {
     display: flex;
     margin-top: 28px;
     justify-content: right;
     margin-right: 14%;
 }
+
 /* .row_info span{
     padding: 0px 10px 0px 10px;
 } */
-.row_info span{
-    margin:0px 10px 0px 10px;
+.row_info span {
+    margin: 0px 10px 0px 10px;
 }
-.next_icon{
-    width:24px;
-    height:24px;
+
+.next_icon {
+    width: 24px;
+    height: 24px;
 }
+
 footer {
     margin-top: 80px;
     color: #414141;
